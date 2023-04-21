@@ -1,4 +1,5 @@
-3
-img/calib_a_cam
-img/calib_b_cam
-img/calib_c_cam
+4
+cal/plane1_cam
+cal/plane2_cam
+cal/plane3_cam  
+cal/plane4_cam
