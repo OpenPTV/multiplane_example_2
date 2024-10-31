@@ -1,11 +1,11 @@
-cal/target_on_a_side_stef_plane2.txt
-cal/undistorted_camera1_plane2_done.tiff
+cal/plane2.txt
+processed/c0/2/calib_c0_2_00001.tif
 cal/plane2_cam1.tif.ori
-cal/undistorted_camera2_plane2_done.tiff
+processed/c1/2/calib_c0_2_00001.tif
 cal/plane2_cam2.tif.ori
-cal/undistorted_camera3_plane2_done.tiff
+processed/c2/2/calib_c0_2_00001.tif
 cal/plane2_cam3.tif.ori
-cal/undistorted_camera4_plane2_done.tiff
+processed/c3/2/calib_c0_2_00001.tif
 cal/plane2_cam4.tif.ori
 1
 0
