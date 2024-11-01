@@ -1,12 +1,12 @@
-cal/plane2.txt
+cal/plane2/plane2.txt
 processed/c0/2/calib_c0_2_00001.tif
-cal/plane2_cam1.tif.ori
+cal/plane2/plane2_cam1.tif.ori
 processed/c1/2/calib_c0_2_00001.tif
-cal/plane2_cam2.tif.ori
+cal/plane2/plane2_cam2.tif.ori
 processed/c2/2/calib_c0_2_00001.tif
-cal/plane2_cam3.tif.ori
+cal/plane2/plane2_cam3.tif.ori
 processed/c3/2/calib_c0_2_00001.tif
-cal/plane2_cam4.tif.ori
+cal/plane2/plane2_cam4.tif.ori
 1
 0
 0
