@@ -5,8 +5,8 @@ for the OpenPTV software (www.openptv.net)
 
 ## How to use it
 
-    git clone https://github.com/openptv/test_cavity
-    python pyptv_gui.py test_cavity
+    git clone https://github.com/OpenPTV/multiplane_example_2
+    python pyptv_gui.py multiplane_example_2
     
 
 ## Source of this data and credits
