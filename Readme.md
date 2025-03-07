@@ -8,21 +8,5 @@ for the OpenPTV software (www.openptv.net)
     git clone https://github.com/OpenPTV/multiplane_example_2
     python pyptv_gui.py multiplane_example_2
     
-
-## Source of this data and credits
-
-This set of data is recorded at the Alex Liberzon laboratory at the School of Mechanical 
-Engineering, Tel Aviv University, http://turbulencelab.sites.tau.ac.il by the team of Reut Elfassi, 
-David Ratner and Mark Kreizer (all Master students at that time) 
-
-The setup is a lid-driven cavity in a cubic cavity of a 1:1:1 ratio. The top lid is a 
-plastic belt driving system constructed for our laboratory by the I.T.E.S. 
-http://www.ites.co.il/index.html
-
-The 4 cameras are located on two sides of the cavity (positive and negative 'z'). More 
-details are available from the Reut Elfassi (Kramer) thesis. 
-
-
-## License
-
+## Calibration example license
 `BY-SA` – [Attribution-ShareAlike](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by-sa.markdown)
